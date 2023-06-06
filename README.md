@@ -1,10 +1,10 @@
 # Сайт Tesla
-`<!doctype html>
-    <html>
-        <head>
-            <!-- Заголовок документа -->
-        </head>
-        <body>
-            <!-- Тело документа -->
-        </body>
-    </html>`
+```<!doctype html>  
+    <html>  
+        <head>  
+            <!-- Заголовок документа -->  
+        </head>  
+        <body>  
+            <!-- Тело документа -->  
+        </body>  
+    </html>```
